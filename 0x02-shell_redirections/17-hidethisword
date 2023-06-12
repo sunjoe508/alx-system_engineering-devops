@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -iA -not -name "bin" /etc/passwd
