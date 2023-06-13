@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -lne 'printf $. % 2==1
+paste  -d,  -  -  |  cut  -d,  -f1
