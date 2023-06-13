@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((`echo $PATH tr ':' '\n' | wc -l ))
+echo $((`echo $PATH= tr ':' '\n' | wc -l ))
