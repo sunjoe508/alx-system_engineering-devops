@@ -43,11 +43,10 @@
 
 Here’s a fun diagram to illustrate what went wrong:
 
-![Load Balancer Misrouting](https://via.placeholder.com/600x400.png?text=Load+Balancer+Misrouting)
+![Load Balancer Misrouting](https://images.app.goo.gl/Pjvr6CFCVUwZcTLj9)
 
 *Figure 1: A load balancer’s idea of a fun traffic route. Spoiler: It didn’t end well.*
 
 ---
 
 This postmortem not only explains what went wrong but also provides a bit of levity to keep you engaged. Here’s to better configurations and fewer load balancer shenanigans!
-
